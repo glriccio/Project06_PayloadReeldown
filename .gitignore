@@ -13,7 +13,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-*~
 .project
 .classpath
 .settings/
@@ -55,7 +54,6 @@ htmlcov/
 *.exe
 *.obj
 *.dll
-*.so
 *.dylib
 *.a
 *.lib
@@ -89,8 +87,6 @@ temp/
 *.backup
 
 # Build Artifacts
-build/
-dist/
 out/
 target/
 
